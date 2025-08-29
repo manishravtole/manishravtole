@@ -53,7 +53,7 @@
 - Traffic Analysis & Networking  
 
 ---
-
+## 📫 Connect With Me
 <p align="center">
   <a href="mailto:manishravtole@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png"/></a>
   <a href="https://www.linkedin.com/in/manishravtole"><img src="https://img.icons8.com/fluency/48/linkedin.png"/></a>
