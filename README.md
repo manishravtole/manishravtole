@@ -61,7 +61,8 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/h408T6Y5GfmXBKW62l/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="600" alt="Matrix Hacker"/>
 </p>
+
 
 ---
